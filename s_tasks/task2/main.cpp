@@ -23,7 +23,12 @@ int main() {
 	std::cout << "Before delete: " << *lost << " - " << lost << "\n";
 
 	delete lost;
-	lost = new int(300);
+	int val = 10;
+	*lost = 1000;
+	std::cout << "After delete: " << *lost << " - " << val << "\n";
+
+	delete lost;
+	lost = &size;
 
 	std::cout << "After delete: " << *lost << " - " << lost << "\n";
 
