@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/task5.dir/link.d CMakeFiles/task5.dir/main.cpp.o -o task5  library/libhypotenuse_library.a

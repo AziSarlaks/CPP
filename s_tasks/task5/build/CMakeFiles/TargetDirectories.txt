@@ -1,0 +1,6 @@
+/home/azi/Work/CPP/s_tasks/task5/build/CMakeFiles/task5.dir
+/home/azi/Work/CPP/s_tasks/task5/build/CMakeFiles/edit_cache.dir
+/home/azi/Work/CPP/s_tasks/task5/build/CMakeFiles/rebuild_cache.dir
+/home/azi/Work/CPP/s_tasks/task5/build/library/CMakeFiles/hypotenuse_library.dir
+/home/azi/Work/CPP/s_tasks/task5/build/library/CMakeFiles/edit_cache.dir
+/home/azi/Work/CPP/s_tasks/task5/build/library/CMakeFiles/rebuild_cache.dir

@@ -11,7 +11,7 @@ namespace ModHypotenuse
     R calculate(const T &firstSide, const T &secondSide)
     {
         static std::mt19937 generator(std::random_device{}());
-        R result = Hypotenuse::calculate(firstSide, secondSide);
+        R result = Hypotenuse::calculate<T, R>(firstSide, secondSide);
 
         if (std::uniform_int_distribution<int>(0, 1)(generator))
         {

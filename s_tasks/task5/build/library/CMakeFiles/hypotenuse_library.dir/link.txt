@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhypotenuse_library.a CMakeFiles/hypotenuse_library.dir/hypotenuse.cpp.o CMakeFiles/hypotenuse_library.dir/modified_hypotenuse.cpp.o
+/usr/bin/ranlib libhypotenuse_library.a

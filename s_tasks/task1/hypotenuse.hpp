@@ -7,7 +7,7 @@ namespace Hypotenuse
 {
 
     template <typename T, typename R>
-    R calculate(T &firstSide, T &secondSide)
+    R calculate(const T &firstSide, const T &secondSide)
     {
         return static_cast<R>(std::hypot(firstSide, secondSide));
     }
