@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/exec_trg.dir/link.d CMakeFiles/exec_trg.dir/main.cpp.o -o exec_trg

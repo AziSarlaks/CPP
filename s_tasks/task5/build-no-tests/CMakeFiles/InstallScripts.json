@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/azi/Work/CPP/s_tasks/task5/build-no-tests/cmake_install.cmake",
+		"/home/azi/Work/CPP/s_tasks/task5/build-no-tests/my_lib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

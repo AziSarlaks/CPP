@@ -1,0 +1,5 @@
+/home/azi/Work/CPP/s_tasks/task5/build-no-tests/CMakeFiles/exec_trg.dir
+/home/azi/Work/CPP/s_tasks/task5/build-no-tests/CMakeFiles/edit_cache.dir
+/home/azi/Work/CPP/s_tasks/task5/build-no-tests/CMakeFiles/rebuild_cache.dir
+/home/azi/Work/CPP/s_tasks/task5/build-no-tests/my_lib/CMakeFiles/edit_cache.dir
+/home/azi/Work/CPP/s_tasks/task5/build-no-tests/my_lib/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/azi/Work/CPP/s_tasks/task5/build",
+  "command": "/usr/bin/c++  -I/home/azi/Work/CPP/s_tasks/task5/my_lib -std=c++17 -o CMakeFiles/exec_trg.dir/main.cpp.o -c /home/azi/Work/CPP/s_tasks/task5/main.cpp",
+  "file": "/home/azi/Work/CPP/s_tasks/task5/main.cpp",
+  "output": "CMakeFiles/exec_trg.dir/main.cpp.o"
+},
+{
+  "directory": "/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googlemock/include -I/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googlemock -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/include -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googlemock/include -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googlemock -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/include -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/include -I/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/include -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/home/azi/Work/CPP/s_tasks/task5/build/tests",
+  "command": "/usr/bin/c++  -I/home/azi/Work/CPP/s_tasks/task5/my_lib -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/include -isystem /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest -std=c++17 -o CMakeFiles/mytst_exec.dir/my_test.cpp.o -c /home/azi/Work/CPP/s_tasks/task5/tests/my_test.cpp",
+  "file": "/home/azi/Work/CPP/s_tasks/task5/tests/my_test.cpp",
+  "output": "tests/CMakeFiles/mytst_exec.dir/my_test.cpp.o"
+}
+]

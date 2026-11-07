@@ -1,0 +1,384 @@
+Start testing: Nov 07 09:28 +07
+----------------------------------------------------------
+1/15 Testing: NormalTests.PositiveNumbers
+1/15 Test: NormalTests.PositiveNumbers
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.PositiveNumbers" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"NormalTests.PositiveNumbers" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NormalTests.PositiveNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NormalTests
+[ RUN      ] NormalTests.PositiveNumbers
+[       OK ] NormalTests.PositiveNumbers (0 ms)
+[----------] 1 test from NormalTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NormalTests.PositiveNumbers" end time: Nov 07 09:28 +07
+"NormalTests.PositiveNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/15 Testing: NormalTests.NegativeNumbers
+2/15 Test: NormalTests.NegativeNumbers
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.NegativeNumbers" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"NormalTests.NegativeNumbers" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NormalTests.NegativeNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NormalTests
+[ RUN      ] NormalTests.NegativeNumbers
+[       OK ] NormalTests.NegativeNumbers (0 ms)
+[----------] 1 test from NormalTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NormalTests.NegativeNumbers" end time: Nov 07 09:28 +07
+"NormalTests.NegativeNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/15 Testing: NormalTests.ZeroNumbers
+3/15 Test: NormalTests.ZeroNumbers
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.ZeroNumbers" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"NormalTests.ZeroNumbers" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NormalTests.ZeroNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NormalTests
+[ RUN      ] NormalTests.ZeroNumbers
+[       OK ] NormalTests.ZeroNumbers (0 ms)
+[----------] 1 test from NormalTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NormalTests.ZeroNumbers" end time: Nov 07 09:28 +07
+"NormalTests.ZeroNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/15 Testing: NormalTests.IntegerResultTruncatesFraction
+4/15 Test: NormalTests.IntegerResultTruncatesFraction
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.IntegerResultTruncatesFraction" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"NormalTests.IntegerResultTruncatesFraction" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NormalTests.IntegerResultTruncatesFraction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NormalTests
+[ RUN      ] NormalTests.IntegerResultTruncatesFraction
+[       OK ] NormalTests.IntegerResultTruncatesFraction (0 ms)
+[----------] 1 test from NormalTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NormalTests.IntegerResultTruncatesFraction" end time: Nov 07 09:28 +07
+"NormalTests.IntegerResultTruncatesFraction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/15 Testing: NormalTests.DoubleNumbers
+5/15 Test: NormalTests.DoubleNumbers
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.DoubleNumbers" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"NormalTests.DoubleNumbers" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NormalTests.DoubleNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NormalTests
+[ RUN      ] NormalTests.DoubleNumbers
+[       OK ] NormalTests.DoubleNumbers (0 ms)
+[----------] 1 test from NormalTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NormalTests.DoubleNumbers" end time: Nov 07 09:28 +07
+"NormalTests.DoubleNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/15 Testing: NormalTests.FloatNumbers
+6/15 Test: NormalTests.FloatNumbers
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.FloatNumbers" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"NormalTests.FloatNumbers" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NormalTests.FloatNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NormalTests
+[ RUN      ] NormalTests.FloatNumbers
+[       OK ] NormalTests.FloatNumbers (0 ms)
+[----------] 1 test from NormalTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NormalTests.FloatNumbers" end time: Nov 07 09:28 +07
+"NormalTests.FloatNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/15 Testing: NormalTests.LongDoubleNumbers
+7/15 Test: NormalTests.LongDoubleNumbers
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.LongDoubleNumbers" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"NormalTests.LongDoubleNumbers" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NormalTests.LongDoubleNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NormalTests
+[ RUN      ] NormalTests.LongDoubleNumbers
+[       OK ] NormalTests.LongDoubleNumbers (0 ms)
+[----------] 1 test from NormalTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NormalTests.LongDoubleNumbers" end time: Nov 07 09:28 +07
+"NormalTests.LongDoubleNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/15 Testing: NormalTests.SeparateResultType
+8/15 Test: NormalTests.SeparateResultType
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.SeparateResultType" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"NormalTests.SeparateResultType" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NormalTests.SeparateResultType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NormalTests
+[ RUN      ] NormalTests.SeparateResultType
+[       OK ] NormalTests.SeparateResultType (0 ms)
+[----------] 1 test from NormalTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NormalTests.SeparateResultType" end time: Nov 07 09:28 +07
+"NormalTests.SeparateResultType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/15 Testing: NormalTests.LargeArguments
+9/15 Test: NormalTests.LargeArguments
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.LargeArguments" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"NormalTests.LargeArguments" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NormalTests.LargeArguments
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NormalTests
+[ RUN      ] NormalTests.LargeArguments
+[       OK ] NormalTests.LargeArguments (0 ms)
+[----------] 1 test from NormalTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NormalTests.LargeArguments" end time: Nov 07 09:28 +07
+"NormalTests.LargeArguments" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/15 Testing: RandomizedTests.IntegerResultRange
+10/15 Test: RandomizedTests.IntegerResultRange
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=RandomizedTests.IntegerResultRange" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"RandomizedTests.IntegerResultRange" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RandomizedTests.IntegerResultRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RandomizedTests
+[ RUN      ] RandomizedTests.IntegerResultRange
+[       OK ] RandomizedTests.IntegerResultRange (0 ms)
+[----------] 1 test from RandomizedTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RandomizedTests.IntegerResultRange" end time: Nov 07 09:28 +07
+"RandomizedTests.IntegerResultRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/15 Testing: RandomizedTests.ZeroResultRange
+11/15 Test: RandomizedTests.ZeroResultRange
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=RandomizedTests.ZeroResultRange" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"RandomizedTests.ZeroResultRange" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RandomizedTests.ZeroResultRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RandomizedTests
+[ RUN      ] RandomizedTests.ZeroResultRange
+[       OK ] RandomizedTests.ZeroResultRange (0 ms)
+[----------] 1 test from RandomizedTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RandomizedTests.ZeroResultRange" end time: Nov 07 09:28 +07
+"RandomizedTests.ZeroResultRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/15 Testing: RandomizedTests.DoubleResultRange
+12/15 Test: RandomizedTests.DoubleResultRange
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=RandomizedTests.DoubleResultRange" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"RandomizedTests.DoubleResultRange" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RandomizedTests.DoubleResultRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RandomizedTests
+[ RUN      ] RandomizedTests.DoubleResultRange
+[       OK ] RandomizedTests.DoubleResultRange (0 ms)
+[----------] 1 test from RandomizedTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RandomizedTests.DoubleResultRange" end time: Nov 07 09:28 +07
+"RandomizedTests.DoubleResultRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/15 Testing: RandomizedTests.SeparateResultType
+13/15 Test: RandomizedTests.SeparateResultType
+Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=RandomizedTests.SeparateResultType" "--gtest_also_run_disabled_tests"
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"RandomizedTests.SeparateResultType" start time: Nov 07 09:28 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = RandomizedTests.SeparateResultType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RandomizedTests
+[ RUN      ] RandomizedTests.SeparateResultType
+[       OK ] RandomizedTests.SeparateResultType (0 ms)
+[----------] 1 test from RandomizedTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"RandomizedTests.SeparateResultType" end time: Nov 07 09:28 +07
+"RandomizedTests.SeparateResultType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/15 Testing: FailureTests.ExpectTest
+14/15 Test: FailureTests.ExpectTest
+Command: ""
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"FailureTests.ExpectTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FailureTests.ExpectTest" end time: Nov 07 09:28 +07
+"FailureTests.ExpectTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/15 Testing: FailureTests.AssertTest
+15/15 Test: FailureTests.AssertTest
+Command: ""
+Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
+"FailureTests.AssertTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FailureTests.AssertTest" end time: Nov 07 09:28 +07
+"FailureTests.AssertTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 07 09:28 +07

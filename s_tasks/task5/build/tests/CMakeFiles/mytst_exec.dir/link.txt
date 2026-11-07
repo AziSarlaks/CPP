@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/mytst_exec.dir/link.d CMakeFiles/mytst_exec.dir/my_test.cpp.o -o mytst_exec  ../lib/libgtest_main.a ../lib/libgtest.a

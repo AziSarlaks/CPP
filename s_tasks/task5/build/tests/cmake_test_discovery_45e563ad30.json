@@ -1,0 +1,99 @@
+{
+  "tests": 15,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "NormalTests",
+      "tests": 9,
+      "testsuite": [
+        {
+          "name": "PositiveNumbers",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 6
+        },
+        {
+          "name": "NegativeNumbers",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 11
+        },
+        {
+          "name": "ZeroNumbers",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 16
+        },
+        {
+          "name": "IntegerResultTruncatesFraction",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 22
+        },
+        {
+          "name": "DoubleNumbers",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 26
+        },
+        {
+          "name": "FloatNumbers",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 31
+        },
+        {
+          "name": "LongDoubleNumbers",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 35
+        },
+        {
+          "name": "SeparateResultType",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 40
+        },
+        {
+          "name": "LargeArguments",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 44
+        }
+      ]
+    },
+    {
+      "name": "RandomizedTests",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "IntegerResultRange",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 49
+        },
+        {
+          "name": "ZeroResultRange",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 57
+        },
+        {
+          "name": "DoubleResultRange",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 65
+        },
+        {
+          "name": "SeparateResultType",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 74
+        }
+      ]
+    },
+    {
+      "name": "FailureTests",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "DISABLED_ExpectTest",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 83
+        },
+        {
+          "name": "DISABLED_AssertTest",
+          "file": "\/home\/azi\/Work\/CPP\/s_tasks\/task5\/tests\/my_test.cpp",
+          "line": 90
+        }
+      ]
+    }
+  ]
+}

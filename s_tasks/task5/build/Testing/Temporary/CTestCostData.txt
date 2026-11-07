@@ -1,0 +1,16 @@
+NormalTests.PositiveNumbers 2 0.00167554
+NormalTests.NegativeNumbers 2 0.00139903
+NormalTests.ZeroNumbers 2 0.00142146
+NormalTests.IntegerResultTruncatesFraction 2 0.00122302
+NormalTests.DoubleNumbers 2 0.00142992
+NormalTests.FloatNumbers 2 0.00147584
+NormalTests.LongDoubleNumbers 2 0.00146306
+NormalTests.SeparateResultType 2 0.00161099
+NormalTests.LargeArguments 2 0.00165329
+RandomizedTests.IntegerResultRange 2 0.00156602
+RandomizedTests.ZeroResultRange 2 0.0015607
+RandomizedTests.DoubleResultRange 2 0.00153622
+RandomizedTests.SeparateResultType 2 0.00147626
+FailureTests.ExpectTest 0 0
+FailureTests.AssertTest 0 0
+---
