@@ -13,6 +13,14 @@
 /home/azi/Work/CPP/s_tasks/task5/build/my_lib/CMakeFiles/install.dir
 /home/azi/Work/CPP/s_tasks/task5/build/my_lib/CMakeFiles/install/local.dir
 /home/azi/Work/CPP/s_tasks/task5/build/my_lib/CMakeFiles/install/strip.dir
+/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/mytst_exec.dir
+/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/test.dir
+/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/edit_cache.dir
+/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/rebuild_cache.dir
+/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/list_install_components.dir
+/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/install.dir
+/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/install/local.dir
+/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/install/strip.dir
 /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/CMakeFiles/test.dir
 /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/CMakeFiles/edit_cache.dir
 /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/CMakeFiles/rebuild_cache.dir
@@ -38,11 +46,3 @@
 /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/googletest/CMakeFiles/install.dir
 /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/googletest/CMakeFiles/install/local.dir
 /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-build/googletest/CMakeFiles/install/strip.dir
-/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/mytst_exec.dir
-/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/test.dir
-/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/edit_cache.dir
-/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/rebuild_cache.dir
-/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/list_install_components.dir
-/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/install.dir
-/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/install/local.dir
-/home/azi/Work/CPP/s_tasks/task5/build/tests/CMakeFiles/install/strip.dir

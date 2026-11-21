@@ -1,10 +1,10 @@
-Start testing: Nov 07 09:28 +07
+Start testing: Nov 21 09:37 +07
 ----------------------------------------------------------
 1/15 Testing: NormalTests.PositiveNumbers
 1/15 Test: NormalTests.PositiveNumbers
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.PositiveNumbers" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"NormalTests.PositiveNumbers" start time: Nov 07 09:28 +07
+"NormalTests.PositiveNumbers" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -20,10 +20,10 @@ Note: Google Test filter = NormalTests.PositiveNumbers
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"NormalTests.PositiveNumbers" end time: Nov 07 09:28 +07
+"NormalTests.PositiveNumbers" end time: Nov 21 09:37 +07
 "NormalTests.PositiveNumbers" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Test Passed.
 2/15 Test: NormalTests.NegativeNumbers
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.NegativeNumbers" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"NormalTests.NegativeNumbers" start time: Nov 07 09:28 +07
+"NormalTests.NegativeNumbers" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -50,7 +50,7 @@ Note: Google Test filter = NormalTests.NegativeNumbers
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"NormalTests.NegativeNumbers" end time: Nov 07 09:28 +07
+"NormalTests.NegativeNumbers" end time: Nov 21 09:37 +07
 "NormalTests.NegativeNumbers" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -58,7 +58,7 @@ Test Passed.
 3/15 Test: NormalTests.ZeroNumbers
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.ZeroNumbers" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"NormalTests.ZeroNumbers" start time: Nov 07 09:28 +07
+"NormalTests.ZeroNumbers" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -77,7 +77,7 @@ Note: Google Test filter = NormalTests.ZeroNumbers
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"NormalTests.ZeroNumbers" end time: Nov 07 09:28 +07
+"NormalTests.ZeroNumbers" end time: Nov 21 09:37 +07
 "NormalTests.ZeroNumbers" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -85,7 +85,7 @@ Test Passed.
 4/15 Test: NormalTests.IntegerResultTruncatesFraction
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.IntegerResultTruncatesFraction" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"NormalTests.IntegerResultTruncatesFraction" start time: Nov 07 09:28 +07
+"NormalTests.IntegerResultTruncatesFraction" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -104,7 +104,7 @@ Note: Google Test filter = NormalTests.IntegerResultTruncatesFraction
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"NormalTests.IntegerResultTruncatesFraction" end time: Nov 07 09:28 +07
+"NormalTests.IntegerResultTruncatesFraction" end time: Nov 21 09:37 +07
 "NormalTests.IntegerResultTruncatesFraction" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -112,7 +112,7 @@ Test Passed.
 5/15 Test: NormalTests.DoubleNumbers
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.DoubleNumbers" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"NormalTests.DoubleNumbers" start time: Nov 07 09:28 +07
+"NormalTests.DoubleNumbers" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -131,7 +131,7 @@ Note: Google Test filter = NormalTests.DoubleNumbers
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"NormalTests.DoubleNumbers" end time: Nov 07 09:28 +07
+"NormalTests.DoubleNumbers" end time: Nov 21 09:37 +07
 "NormalTests.DoubleNumbers" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,7 +139,7 @@ Test Passed.
 6/15 Test: NormalTests.FloatNumbers
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.FloatNumbers" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"NormalTests.FloatNumbers" start time: Nov 07 09:28 +07
+"NormalTests.FloatNumbers" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -158,7 +158,7 @@ Note: Google Test filter = NormalTests.FloatNumbers
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"NormalTests.FloatNumbers" end time: Nov 07 09:28 +07
+"NormalTests.FloatNumbers" end time: Nov 21 09:37 +07
 "NormalTests.FloatNumbers" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -166,7 +166,7 @@ Test Passed.
 7/15 Test: NormalTests.LongDoubleNumbers
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.LongDoubleNumbers" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"NormalTests.LongDoubleNumbers" start time: Nov 07 09:28 +07
+"NormalTests.LongDoubleNumbers" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -185,7 +185,7 @@ Note: Google Test filter = NormalTests.LongDoubleNumbers
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"NormalTests.LongDoubleNumbers" end time: Nov 07 09:28 +07
+"NormalTests.LongDoubleNumbers" end time: Nov 21 09:37 +07
 "NormalTests.LongDoubleNumbers" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -193,7 +193,7 @@ Test Passed.
 8/15 Test: NormalTests.SeparateResultType
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.SeparateResultType" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"NormalTests.SeparateResultType" start time: Nov 07 09:28 +07
+"NormalTests.SeparateResultType" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -212,7 +212,7 @@ Note: Google Test filter = NormalTests.SeparateResultType
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"NormalTests.SeparateResultType" end time: Nov 07 09:28 +07
+"NormalTests.SeparateResultType" end time: Nov 21 09:37 +07
 "NormalTests.SeparateResultType" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -220,7 +220,7 @@ Test Passed.
 9/15 Test: NormalTests.LargeArguments
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=NormalTests.LargeArguments" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"NormalTests.LargeArguments" start time: Nov 07 09:28 +07
+"NormalTests.LargeArguments" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -239,7 +239,7 @@ Note: Google Test filter = NormalTests.LargeArguments
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"NormalTests.LargeArguments" end time: Nov 07 09:28 +07
+"NormalTests.LargeArguments" end time: Nov 21 09:37 +07
 "NormalTests.LargeArguments" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -247,7 +247,7 @@ Test Passed.
 10/15 Test: RandomizedTests.IntegerResultRange
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=RandomizedTests.IntegerResultRange" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"RandomizedTests.IntegerResultRange" start time: Nov 07 09:28 +07
+"RandomizedTests.IntegerResultRange" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -266,7 +266,7 @@ Note: Google Test filter = RandomizedTests.IntegerResultRange
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"RandomizedTests.IntegerResultRange" end time: Nov 07 09:28 +07
+"RandomizedTests.IntegerResultRange" end time: Nov 21 09:37 +07
 "RandomizedTests.IntegerResultRange" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -274,7 +274,7 @@ Test Passed.
 11/15 Test: RandomizedTests.ZeroResultRange
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=RandomizedTests.ZeroResultRange" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"RandomizedTests.ZeroResultRange" start time: Nov 07 09:28 +07
+"RandomizedTests.ZeroResultRange" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -293,7 +293,7 @@ Note: Google Test filter = RandomizedTests.ZeroResultRange
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"RandomizedTests.ZeroResultRange" end time: Nov 07 09:28 +07
+"RandomizedTests.ZeroResultRange" end time: Nov 21 09:37 +07
 "RandomizedTests.ZeroResultRange" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -301,7 +301,7 @@ Test Passed.
 12/15 Test: RandomizedTests.DoubleResultRange
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=RandomizedTests.DoubleResultRange" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"RandomizedTests.DoubleResultRange" start time: Nov 07 09:28 +07
+"RandomizedTests.DoubleResultRange" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -320,7 +320,7 @@ Note: Google Test filter = RandomizedTests.DoubleResultRange
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"RandomizedTests.DoubleResultRange" end time: Nov 07 09:28 +07
+"RandomizedTests.DoubleResultRange" end time: Nov 21 09:37 +07
 "RandomizedTests.DoubleResultRange" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -328,7 +328,7 @@ Test Passed.
 13/15 Test: RandomizedTests.SeparateResultType
 Command: "/home/azi/Work/CPP/s_tasks/task5/build/tests/mytst_exec" "--gtest_filter=RandomizedTests.SeparateResultType" "--gtest_also_run_disabled_tests"
 Directory: /home/azi/Work/CPP/s_tasks/task5/build/tests
-"RandomizedTests.SeparateResultType" start time: Nov 07 09:28 +07
+"RandomizedTests.SeparateResultType" start time: Nov 21 09:37 +07
 Output:
 ----------------------------------------------------------
 Running main() from /home/azi/Work/CPP/s_tasks/task5/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -347,7 +347,7 @@ Note: Google Test filter = RandomizedTests.SeparateResultType
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"RandomizedTests.SeparateResultType" end time: Nov 07 09:28 +07
+"RandomizedTests.SeparateResultType" end time: Nov 21 09:37 +07
 "RandomizedTests.SeparateResultType" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -362,7 +362,7 @@ Output:
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FailureTests.ExpectTest" end time: Nov 07 09:28 +07
+"FailureTests.ExpectTest" end time: Nov 21 09:37 +07
 "FailureTests.ExpectTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -377,8 +377,8 @@ Output:
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FailureTests.AssertTest" end time: Nov 07 09:28 +07
+"FailureTests.AssertTest" end time: Nov 21 09:37 +07
 "FailureTests.AssertTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Nov 07 09:28 +07
+End testing: Nov 21 09:37 +07

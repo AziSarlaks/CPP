@@ -185,6 +185,19 @@ exec_trg/fast:
 .PHONY : exec_trg/fast
 
 #=============================================================================
+# Target rules for targets named mytst_exec
+
+# Build rule for target.
+mytst_exec: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 mytst_exec
+.PHONY : mytst_exec
+
+# fast build rule for target.
+mytst_exec/fast:
+	$(MAKE) $(MAKESILENT) -f tests/CMakeFiles/mytst_exec.dir/build.make tests/CMakeFiles/mytst_exec.dir/build
+.PHONY : mytst_exec/fast
+
+#=============================================================================
 # Target rules for targets named gmock
 
 # Build rule for target.
@@ -235,19 +248,6 @@ gtest_main: cmake_check_build_system
 gtest_main/fast:
 	$(MAKE) $(MAKESILENT) -f _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/build.make _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/build
 .PHONY : gtest_main/fast
-
-#=============================================================================
-# Target rules for targets named mytst_exec
-
-# Build rule for target.
-mytst_exec: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 mytst_exec
-.PHONY : mytst_exec
-
-# fast build rule for target.
-mytst_exec/fast:
-	$(MAKE) $(MAKESILENT) -f tests/CMakeFiles/mytst_exec.dir/build.make tests/CMakeFiles/mytst_exec.dir/build
-.PHONY : mytst_exec/fast
 
 main.o: main.cpp.o
 .PHONY : main.o
